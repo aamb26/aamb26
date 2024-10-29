@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adriana Angélica Montejo Borrás</h1>
 <h3 align="center">Programmer and studio tester at SENA Colombia</h3>
 
-- 👨‍💻 None [none](none)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adriana montejo borrás" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriana montejo borrás" height="30" width="40" /></a>
