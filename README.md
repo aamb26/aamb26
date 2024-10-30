@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I’m Adriana, a student at Sena in Colombia and a self-taught programmer focused on Backend development. I’m passionate about creating modern web applications and microservices with Java, PHP, and MySQL. I’ve specialized my studies in the testing sector. I'd love to hear your thoughts and advice on my projects
-👇👇👇👇👇👇👇👇👇
+</br>
+  👇👇👇👇👇👇👇👇👇
 </h1>
 
 <h3 align="left">Connect with me:</h3>
